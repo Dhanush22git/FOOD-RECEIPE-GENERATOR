@@ -10,14 +10,11 @@
     An Awesome application to find best recipies
     <br/>
     <br/>
-    <a href="https://drive.google.com/drive/folders/1gV2zvTFH-e0Ej3tHeU9pCMiSjl8TYNd7"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     .
   </p>
 </p>
-![Screenshot 2024-04-30 234203](https://github.com/Dhanush22git/FOOD-RECEIPE-GENERATOR/assets/163113135/b36af943-d13c-4dcf-8bec-5be834f7af62)
-
 
 ## Table Of Contents
 
@@ -32,7 +29,7 @@
 
 ## About The Project
 
-![Screen Shot](src/images/screenshot.png)
+![Screenshot 2024-04-30 234203](https://github.com/Dhanush22git/FOOD-RECEIPE-GENERATOR/assets/163113135/b36af943-d13c-4dcf-8bec-5be834f7af62)
 
 A food recipe generator is a versatile and innovative tool designed to provide culinary inspiration and guidance to both novice and experienced cooks.
 
