@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/bhuvan-bhu1/Food-Recipe-Generator">
+  <a href="https://github.com/Dhanush22git/FOOD-RECEIPE-GENERATOR">
     <img src="src/images/food.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,12 +13,11 @@
     <a href="https://drive.google.com/drive/folders/1gV2zvTFH-e0Ej3tHeU9pCMiSjl8TYNd7"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://bhuvanfoodrecipieapp.netlify.app/">View Demo</a>
     .
   </p>
 </p>
+![Screenshot 2024-04-30 234203](https://github.com/Dhanush22git/FOOD-RECEIPE-GENERATOR/assets/163113135/b36af943-d13c-4dcf-8bec-5be834f7af62)
 
-![Downloads](https://img.shields.io/github/downloads/bhuvan-bhu1/Food-Recipe-Generator/total) ![Stargazers](https://img.shields.io/github/stars/bhuvan-bhu1/Food-Recipe-Generator?style=social) 
 
 ## Table Of Contents
 
@@ -75,7 +74,7 @@ npm --version
 1. Clone the repo
 
 ```sh
-git clone https://github.com/bhuvan-bhu1/Food-Recipe-Generator.git
+git clone https://github.com/Dhanush22git/FOOD-RECEIPE-GENERATOR.git
 ```
 2. Install NPM packages
 
@@ -94,14 +93,14 @@ npm start
 Open the application in your favourite browser 
 Some screen shots of the application
 1. Saved Recipies
-![Screen Shot](src/images/ss1.png)
+![Screenshot 2024-04-30 234537](https://github.com/Dhanush22git/FOOD-RECEIPE-GENERATOR/assets/163113135/ef4afdce-c90e-464e-9e5b-3db5e6306778)
 
 2.Search Recipie Option
-![Screen Shot](src/images/ss2.png)
+![Screenshot 2024-04-30 234632](https://github.com/Dhanush22git/FOOD-RECEIPE-GENERATOR/assets/163113135/b595055a-2aac-46ec-a545-13b618927188)
 
 ## Authors
 
-* **D V BHUVANESH** - *Computer Science Student* - [D V BHUVANESH](https://github.com/bhuvan-bhu1/) - *Build the whole project*
+* **Gunti Mohan Dhanush** - *Computer Science Student*
 
 ## Acknowledgements
 
